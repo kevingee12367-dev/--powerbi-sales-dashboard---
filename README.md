@@ -1,5 +1,7 @@
 E‑Commerce Sales Analysis — Power BI Project
-📊 Project Overview
+
+
+Project Overview
 This project analyzes e‑commerce sales performance using Power BI. The goal is to demonstrate junior data analyst skills across data cleaning, modeling, visualization, and business insight generation.
 The dashboard highlights key revenue drivers, customer behavior, product performance, and time‑based trends.
 This project is part of my data analytics portfolio and showcases my ability to turn raw data into actionable insights.
